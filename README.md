@@ -1,7 +1,7 @@
 
 # Spinning, beating heart in C
 
-Youtube link: 
+Youtube link: https://youtu.be/wsf6ORBDcfg
 
 Compilation and running:
 ```
